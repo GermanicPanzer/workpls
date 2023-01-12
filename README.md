@@ -7,4 +7,4 @@ In order to change the name on Netlify, go to domain settings, and click on "Cha
 This tutorial can be used for other things on github.
 
 <a target="_blank" href="https://glitch.com/edit/#!/import/github/GermanicPanzer/workpls"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
-<a target="_blank" href="https://https://app.netlify.com/start/deploy?repository=https://github.com/GermanicPanzer/workpls"><img alt="Deploy to Netlify" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg"></a>
+<a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/GermanicPanzer/workpls"><img alt="Deploy to Netlify" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg"></a>

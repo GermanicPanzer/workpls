@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Protected Site"
-AuthUserFile /usr/home/yourusername/.htpasswd
-require valid-user

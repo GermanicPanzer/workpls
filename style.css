@@ -73,3 +73,7 @@ h3 {
   cursor: pointer;
   border-radius: 15px;
 }
+
+.button:hover {
+  color: #e3e3e1;
+}  
